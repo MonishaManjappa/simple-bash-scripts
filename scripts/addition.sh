@@ -12,3 +12,7 @@ x=$(expr "$a" + "$b")
 x=$(expr "$a" + "$b")
 x=$(expr "$a" + "$b")
 echo $a + $b = $x
+echo $a + $b = $x
+echo $a + $b = $x
+echo $a + $b = $x
+
